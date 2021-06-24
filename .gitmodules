@@ -1,0 +1,5 @@
+[submodule "explorer"]
+	path = explorer
+	url = https://github.com/zjhmale/explorer.git
+  branch = vscode
+  ignore = dirty
