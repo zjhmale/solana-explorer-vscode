@@ -6,6 +6,8 @@
     Solana Explorer VsCode
 </p>
 
+![demo](./screenshots/demo.gif)
+
 ## Development
 
 * Install dependencies
