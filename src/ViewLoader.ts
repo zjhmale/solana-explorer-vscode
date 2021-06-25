@@ -22,7 +22,8 @@ export class ViewLoader {
         this.disposables = [];
 
         this.panel = vscode.window.createWebviewPanel('solanaExplorer', 'Solana Explorer', vscode.ViewColumn.One, {
-            enableScripts: true
+            enableScripts: true,
+            retainContextWhenHidden: true
         });
 
         // render webview
