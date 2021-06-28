@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Solana" src="https://i.imgur.com/OMnvVEz.png" width="250" />
+    <img alt="Solana" src="./logo.png" width="250" />
 </p>
 
 <p align="center">
